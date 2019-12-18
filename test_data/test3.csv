@@ -1,0 +1,6 @@
+test1.xml
+1|NeedHelpPopUp|If you require any assistance press 'Enter'|If you require any assistance press 'Enter'|no context||
+2|SetInterpreterSpeed|The maxixum interpreter speed is a user defined integer variable between 1 and 255.|The maxixum kääntäjä speed is a user defined integer muuttuja between 1 and 255.|no context|interpreter = kääntäjä| variable = muuttuja|
+test2.xml
+1|Test1|Test1|Testi|no context|Test1 = testi|
+2|Testiresurssi|For some reason <x id="1"/> and <x id="2"/> mistranslated.|For some reason <x id = "1" /> and <x id = "2" /> mistranslated.|no context||
